@@ -2,12 +2,12 @@ body {
   color: green;
 }
 h1 {
+	background: #0d2700;
   color: #5bde30;
   font-family:"trebuchet ms", verdana, sans-serif;
 }
 
 h2 {
-  color: #5bde30;
   font-family:"trebuchet ms", verdana, sans-serif;
 }
 
@@ -18,7 +18,7 @@ p {
 }
 
 .about {
-  background: #440a38;
+  background: #ffcbde;
   color: #d9114d;
 }
 
