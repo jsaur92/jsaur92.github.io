@@ -1,0 +1,23 @@
+body {
+  color: green;
+}
+h1 {
+  color: #5bde30;
+  font-family:"trebuchet ms", verdana, sans-serif;
+}
+
+p {
+  color: #38951d;
+  font-family:"trebuchet ms", verdana, sans-serif;
+  background-color: hsla(0, 0%, 15%, 0.7);
+}
+
+/* unvisited link */
+a:link {
+  color: steelblue;
+}
+
+/* visited link */
+a:visited {
+  color: hotpink;
+}
