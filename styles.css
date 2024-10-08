@@ -35,6 +35,14 @@ p {
   color: #1b2a5a;
 }
 
+.project img{
+width: 300px;
+height: 200px;
+margin: 10px;
+border: 2px solid rgb(30, 10, 240);
+display: block;
+}
+
 .contact {
   background: #eacdc6;
   color: #632c08;
